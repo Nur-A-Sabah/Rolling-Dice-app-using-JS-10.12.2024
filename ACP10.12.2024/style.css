@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  font-family: cursive;
+  background-color: cornsilk;
+}
+#num {
+  font-size: 320px;
+}
+#num:hover {
+  cursor: pointer;
+}
